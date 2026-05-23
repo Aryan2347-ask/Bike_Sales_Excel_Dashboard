@@ -78,7 +78,7 @@ Users can filter data dynamically using slicers.
 📸 Dashboard Preview
 
 <p align="center">
-  <img src="img_source_here" width="1000"/>
+  <img src="https://github.com/Aryan2347-ask/Bike_Sales_Excel_Dashboard/blob/main/Images/Bike_Sales_Dashboard_img.png?raw=true" width="1000"/>
 </p>
 ---
 
@@ -128,6 +128,7 @@ This dashboard helps businesses:
 👨‍💻 Author
 
 Aryan Khanorkar
+
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
 
  
